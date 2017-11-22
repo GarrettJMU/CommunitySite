@@ -1,7 +1,7 @@
 import React, { PropTypes } from 'react';
 import { PageHeader } from 'react-bootstrap';
 
-const title = 'Blank';
+const title = 'Diamond';
 
 function displayBlank(props, context) {
   context.setTitle(title);
